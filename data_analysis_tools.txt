@@ -1,0 +1,52 @@
+Tools used :
+
+
+Jupyter Notebook (-> JupyterLab)
+https://jupyter.org/try-jupyter/lab/
+    CELLS
+        Markdown -> text formatting tool
+        Code     -> executes code like in VSCode
+    MANIPULATING CELLS
+        a -> adds cell above
+        dd -> delete a cell
+        b -> adds cell below
+        m -> switch cell to Markdown mode
+        y -> switch cell to Code mode (using Python language)
+        r -> switch cell to Raw mode
+        echap -> quit cell editing
+        enter -> enter cell editing
+        arrows -> move over cells
+        ctrl + enter -> execute code cell
+        maj + enter -> execute code and move to next cell
+        z -> undo last action (no need of ctrl)
+        x -> cut cell
+        v -> paste cell
+        c -> copy cell
+
+
+
+Requests & Pandas libraries (-> included in Python)
+
+
+
+Matplotlib
+    Mostly used
+    Static
+
+
+
+(not used, but exists for better work)
+Bokeh library (-> not included)
+    Dynamic
+
+
+
+NumPy (-> included in Python)
+    Numeric processing library
+    INSTALLING IT
+        pip install numpy (in terminal)
+        import numpy (in code editor)
+    Used to run numeric code faster and improve CPU memory
+    EXAMPLE
+        python_array = [1, 2, 3] -> [[value, attribute, etc.], [value, attribute, etc.], [value, attribute, etc.]]
+        numpy_array = [1, 2, 3] -> [value, value, value]
